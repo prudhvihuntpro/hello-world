@@ -1,0 +1,7 @@
+path: D:\lpd   #root directory
+train: images/train  # train images (realtive to 'path')
+val: images/train  # val images (realtive to 'path')
+
+#classes
+names:
+  0: vehicle
